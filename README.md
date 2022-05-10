@@ -3,7 +3,7 @@
 #### 1_train_yolo_colab_220509.ipynb 파일을 colab에서 수행한다
 
 - 데이터셋 설정
-  - train=<<custom train data path>>
+  - train=<<<custom train data path>>>
   - val=<<custom valid data path>>
   - nc= 내 데이터의 클래스 개수
   - names= 내 데이터 클래스의 이름들
