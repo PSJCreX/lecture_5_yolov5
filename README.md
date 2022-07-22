@@ -1,6 +1,8 @@
 ## Yolov5 실습
 
-#### 1_train_yolo_colab_220509.ipynb 파일을 colab에서 수행한다
+220722, torch==1.12.0 버전에서 돌도록 업데이트
+
+#### 1_train_yolo_colab_220722.ipynb 파일을 colab에서 수행한다
 
 - 데이터셋 설정
   - train= custom train data path
