@@ -260,6 +260,7 @@ class LoadImages:
       
 ## wygo, 220722
 img_formats = ['bmp', 'jpg', 'jpeg', 'png', 'tif', 'tiff', 'dng', 'webp', 'mpo']  # acceptable image suffixes
+vid_formats = ['mov', 'avi', 'mp4', 'mpg', 'mpeg', 'm4v', 'wmv', 'mkv']  # acceptable video suffixes
 
 class LoadImages_custom:  # for inference
     def __init__(self, path, img_size=640, stride=32):
