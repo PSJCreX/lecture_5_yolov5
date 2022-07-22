@@ -122,7 +122,7 @@ def attempt_load(weights, map_location=None, inplace=True, fuse=True):
         return model  # return ensemble
     
 ## wy 추가, 220722
-def attempt_load(weights, map_location=None):
+def attempt_load_custom(weights, map_location=None):
     # Loads an ensemble of models weights=[a,b,c] or a single model weights=[a] or weights=a
     model = Ensemble()
     for w in weights if isinstance(weights, list) else [weights]:
