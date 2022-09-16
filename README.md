@@ -13,13 +13,13 @@
 <img src="img/set_data.png" width="600"/>
 
 - Object Detection 예시
-<img src="img/example.png" width="600" height="200"/>
+<img src="img/example.png" width="600"/>
 
 - Validation 결과 예시
-<img src="img/validation.png" width="600" height="200"/>
+<img src="img/validation.png" width="600"/>
 
 - 학습 metric history
-<img src="img/history.png" width="600" height="200"/>
+<img src="img/history.png" width="600"/>
 
 
 
