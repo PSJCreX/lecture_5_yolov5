@@ -27,8 +27,8 @@
 
 - Torch, ONNX, TensorRT 속도비교 (GPU: Tesla P100)
 
-| Pytorch | ONNX | TensorRT |
-|:---------:|:------:|:----------:|
-|0.033s (30fps) | 0.015s (67fps) | 0.008s (125fps) |
-|0.033s (30fps)| 0.056s (18fps) | 0.016s (63fps) 
-{: .table}
+| Model | Pytorch | ONNX | TensorRT |
+|:-----:|:---------:|:------:|:----------:|
+| yolov5s | 0.033s (30fps) | 0.015s (67fps) | 0.008s (125fps) |
+| yolov5x(custom) | 0.033s (30fps)| 0.056s (18fps) | 0.016s (63fps) |
+
