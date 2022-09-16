@@ -10,16 +10,16 @@
   - nc= 내 데이터의 클래스 개수
   - names= 내 데이터 클래스의 이름들
 
-<img src="img/set_data.png" width="600"/>
+<p align="center"><img src="img/set_data.png" width="600"/>
 
 - Object Detection 예시
-<img src="img/example.png" width="600"/>
+<p align="center"><img src="img/example.png" width="600"/>
 
 - Validation 결과 예시
-<img src="img/validation.png" width="600"/>
+<p align="center"><img src="img/validation.png" width="600"/>
 
 - 학습 metric history
-<img src="img/history.png" width="600"/>
+<p align="center"><img src="img/history.png" width="600"/>
 
 
 
